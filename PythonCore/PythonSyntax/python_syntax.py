@@ -14,8 +14,28 @@ print("I have no indentation")
 if 5 > 2:
   print("Five is greater than two!")
 
+# If we Skip Indentation, Python will throw error.
 """
 if 5 > 2:
 print("Five is greater than two!") # Syntax error   need to give minimum one space  and block of  statements comment
 """
 print("Hello, World!") 
+
+# Indentation in Conditional Statements
+a =  20
+
+if a >= 18:
+    print('GeeksforGeeks...')
+else:
+    print('retype the URL.')
+print('All set !') # out of elese block (As we know if we are giving same spce/ same indentation which comes under block of code)
+
+# Indentation in Loops
+j = 1
+  
+while(j<= 5): 
+     print(j) 
+     j = j + 1
+
+
+     
