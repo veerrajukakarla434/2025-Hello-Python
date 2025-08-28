@@ -17,7 +17,6 @@ total_score = 90
 # 1name = "Error"  # Starts with a digit (added comment becuase giving error , to check this you can remove starting #)
 # class = 10       # 'class' is a reserved keyword
 # user-name = "Doe"  # Contains a hyphen
-
 # Basic Assignment
 x = 5
 y = 3.14
